@@ -64,9 +64,3 @@ pruebas = [
     {'temperatura': 40, 'humedad_ambiental': 20, 'humedad_suelo': 10, 'luz': 200},   # Emergencia
     {'temperatura': 15, 'humedad_ambiental': 80, 'humedad_suelo': 80, 'luz': 1400},  # Estable
 ]
-Salida en consola (ejemplo):
-
-Ventilador = 0.912  
-Luces      = 0.751  
-Bomba      = 0.533  
-Buzzer     = 0.892  
